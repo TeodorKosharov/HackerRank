@@ -1,0 +1,5 @@
+number, factor = (int(input()) for _ in range(2))
+result = divmod(number, factor)
+print(result[0])
+print(result[1])
+print(result)
