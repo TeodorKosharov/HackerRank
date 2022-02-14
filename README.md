@@ -1,2 +1,2 @@
 # HackerRank
-Problem solutions from hackerrank.com.
+Practicing coding in hackerrank.com.
